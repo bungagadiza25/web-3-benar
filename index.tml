@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web GIS Peluang Karier</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>Web GIS Peluang Karier Industri</h1>
+        <p>
+            Pemetaan peluang kerja dan persebaran industri
+            untuk mendukung pengembangan karier.
+        </p>
+    </header>
+
+    <nav>
+        <a href="#beranda">Beranda</a>
+        <a href="#industri">Peta Industri</a>
+        <a href="#karier">Peluang Karier</a>
+        <a href="#kompetensi">Kompetensi</a>
+    </nav>
+
+    <section id="industri">
+        <h2>Pemetaan Industri</h2>
+        <p>
+            Menampilkan lokasi industri dan perusahaan
+            berdasarkan wilayah.
+        </p>
+
+        <div id="map">
+            Peta GIS ditampilkan di sini
+        </div>
+    </section>
+
+    <section id="karier">
+        <h2>Peluang Karier</h2>
+
+        <ul>
+            <li>Web Developer - Bengkulu</li>
+            <li>Data Analyst - Jakarta</li>
+            <li>GIS Specialist - Bandung</li>
+            <li>Digital Marketing - Yogyakarta</li>
+        </ul>
+    </section>
+
+    <section id="kompetensi">
+        <h2>Kompetensi yang Dibutuhkan</h2>
+
+        <ul>
+            <li>Programming</li>
+            <li>Data Analysis</li>
+            <li>Geographic Information System</li>
+            <li>Digital Communication</li>
+        </ul>
+    </section>
+
+</body>
+</html>
